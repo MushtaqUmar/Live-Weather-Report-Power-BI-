@@ -64,9 +64,11 @@ https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=Srinagar
 
 3 **DAX and Charts To Get Extract Insights and Present**
 
-4 **Air Quality Logic in DAX**
-- Reusable patterns for AQI color, status-health suggestion:
-``` AQI Status =
+4. **Air Quality Logic in DAX**  
+Reusable patterns for AQI color, status-health suggestion:
+
+```
+AQI Status =
 VAR AQI = ROUND(SELECTEDVALUE('Current'[pm2_5]), 0)
 RETURN SWITCH(
   TRUE(),
@@ -76,9 +78,8 @@ RETURN SWITCH(
   AQI <= 200, "Unhealthy",
   AQI <= 300, "Very Unhealthy",
   "Hazardous"
-) ```
-
-5- **Final Visuals & Filters**
+)
+```
 
 ### **Why I did this Project?**
 - End-to-end real-time data project
@@ -88,4 +89,4 @@ RETURN SWITCH(
 
 ## **Dashboard Preview**
 
-![Weather Dashboard Preview](./Dashboard-Preview.png)
+![Weather Dashboard Preview](./Dashboard_Preview.png)
