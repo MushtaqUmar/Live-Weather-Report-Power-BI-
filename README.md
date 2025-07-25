@@ -1,6 +1,6 @@
 # Live Weather Report (Power-BI)
-<br>
 ## OBJECTIVE:
+
 This project demonstrates how to create a real-time, API-powered weather dashboard using Power BI, integrating key weather parameters like temperature, wind, Vidibility, UV Index, humidity, and Air Quality Index (AQI) from multiple cities (easily scalable). It’s built for students, analysts, and developers who want to explore real-world data integration and visualization using modern tools like Power BI.
 
 ---
