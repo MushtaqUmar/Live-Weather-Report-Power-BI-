@@ -8,10 +8,9 @@ This project demonstrates how to create a real-time, API-powered weather dashboa
 ## Tools & Technologies Used
 
 - **Power BI Desktop**
-- **WeatherAPI.com** (Free/paid API)
+- API Integration **WeatherAPI.com** (Free/paid API)
 - **Power Query**
 - **DAX** (Data Analysis Expressions)
-- **Glassmorphism UI Design**
 - **GitHub** (Version Control & Deployment)
 
 ---
