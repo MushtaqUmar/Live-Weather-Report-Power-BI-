@@ -18,10 +18,10 @@ This project demonstrates how to create a real-time, API-powered weather dashboa
 ## Prerequisites
 
 To run or customize this dashboard, you’ll need:
-- ✅ Power BI Desktop installed
-- ✅ A free account on [https://weatherapi.com](https://weatherapi.com)
-- ✅ Your **WeatherAPI key**
-- ✅ Basic-intermediate knowledge of Power BI (importing data, using visuals, filters)
+-  Power BI Desktop installed
+-  A free account on [https://weatherapi.com](https://weatherapi.com)
+-  Your **WeatherAPI key**
+-  Basic-intermediate knowledge of Power BI (importing data, using visuals, filters)
 
 ---
 
